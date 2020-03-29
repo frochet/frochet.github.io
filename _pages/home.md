@@ -20,7 +20,7 @@ Intro: TODO
 
 <div class="col-sm-12 clearfix">
  <div class="well">
-  <pubtit>{{ project.title }}</pubtit>
+  <projtit>{{ project.title }}</projtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ project.image }}" class="img-responsive" width="25%" style="float: left" />
   <p>{{ project.description }}</p>
   <p> Linked publications: </p>

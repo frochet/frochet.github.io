@@ -6,9 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-
-Intro: TODO
-
 ## Research Projects
 
 {% assign number_printed = 0 %}

@@ -16,7 +16,6 @@ Intro: TODO
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
-<div class="row">
 
 <div class="col-sm-12 clearfix">
  <div class="well">
@@ -39,7 +38,6 @@ Intro: TODO
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-</div>
 
 <p> &nbsp; </p>
 

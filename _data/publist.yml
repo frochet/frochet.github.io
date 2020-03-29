@@ -8,6 +8,7 @@
   journal: 1
   highlight: 1
   id_project: -1
+  year: 2020
   news2:
 
 - title: "Flexible Anonymous Network"
@@ -21,6 +22,7 @@
     display: slides
   in: 12th Workshop on Hot Topics in Privacy Enhancing Technologies (HotPETs 2019)
   journal: 0
+  year: 2019
   id_project: 2
 
 - title: "Pluginizing QUIC"
@@ -31,6 +33,7 @@
     display: ACM SIGCOMM (2019)
   in: Proceedings of the ACM Special Interest Group on Data Communication (ACM SIGCOMM 2019)
   journal: 0
+  year: 2019
   id_project: 1
 
 - title: "SWAT: Seamless Web Authentication Technology"
@@ -41,6 +44,7 @@
     display: ACM WWW (2019)
   in: the ACM World Wide Web Conference (2019)
   journal: 0
+  year: 2019
   id_project: 4
 
 - title: "Dropping on the Edge: Flexibility and Traffic Confirmation in Onion Routing Protocols"
@@ -54,6 +58,7 @@
     display: slides
   in: Proceedings on Privacy Enhancing Technologies (2018)
   journal: 1
+  year: 2018
   id_project: 2
 
 - title: "Formal Analysis of the Fido 1.x Protocol"
@@ -64,6 +69,7 @@
     display: FPS (2017)
   in: the 10th International Symposium on Foundations & Practices of Security
   journal: 0
+  year: 2017
   id_project: 4
 
 - title: "Waterfilling: Balancing the Tor Network with Maximum Diversity"
@@ -74,5 +80,5 @@
     display: PoPETs (2017)
   in: Proceedings on Privacy Enhancing Technologies (2017)
   journal: 1
+  year: 2017
   id_project: 3
-

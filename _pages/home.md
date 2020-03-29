@@ -22,14 +22,19 @@ Intro: TODO
   <projtit>{{ project.title }}</projtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ project.image }}" class="img-responsive" width="25%" style="float: left" />
   <p>{{ project.description }}</p>
-  <p> Linked publications: </p>
+  <p><b> Linked publications:</b> </p>
+  <ul>
 {% for publi in site.data.publist %}
-{%if publi.id_project == project.projectid %}
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  {%if publi.id_project == project.projectid %}
+    <li>
+    <p>{{ publi.title }}, 
+  <strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
+    </li>
 {% endif %}
 {% endfor %}
+  </ul>
  </div>
 </div>
 

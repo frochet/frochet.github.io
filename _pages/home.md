@@ -16,14 +16,14 @@ Intro: TODO
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+<!--{% if even_odd == 0 %}-->
+<!--<div class="row">-->
+<!--{% endif %}-->
 
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ project.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ project.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ project.image }}" class="img-responsive" width="66%" style="float: left" />
   <p>{{ project.description }}</p>
   <p> Linked publications: </p>
 {% for publi in site.data.publist %}
@@ -45,9 +45,9 @@ Intro: TODO
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+<!--{% if even_odd == 1 %}-->
+<!--</div>-->
+<!--{% endif %}-->
 
 <p> &nbsp; </p>
 

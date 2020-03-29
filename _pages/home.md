@@ -26,7 +26,7 @@ Intro: TODO
   <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ project.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ project.description }}</p>
   <p> Linked publications: </p>
-  {% for publi in site.data.publis %}
+  {% for publi in site.data.publist %}
     {%if publi.id_project == project.projectid %}
     <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
     <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
@@ -51,6 +51,5 @@ Intro: TODO
 <p> &nbsp; </p>
 
 
-## Full List
 
 

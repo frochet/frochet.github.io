@@ -28,9 +28,9 @@ Intro: TODO
   <p> Linked publications: </p>
 {% for publi in site.data.publist %}
 {%if publi.id_project == project.projectid %}
-    <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-    <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-    <p> {{ publi.news2 }}</p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <p> {{ publi.news2 }}</p>
 {% endif %}
 {% endfor %}
  </div>

@@ -9,8 +9,6 @@ permalink: /publications/
 
 # Publications
 
-## Full List
-
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />

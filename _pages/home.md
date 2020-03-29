@@ -9,7 +9,7 @@ permalink: /
 
 Intro: TODO
 
-# Research Projects
+## Research Projects
 
 {% assign number_printed = 0 %}
 {% for project in site.data.projects %}

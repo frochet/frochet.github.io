@@ -1,9 +1,76 @@
-- title: "blablaaa est"
-  description: An amazing dummy paper test
-  authors: F. Rochet, R. Sanchez, Morty
+- title: "Scaling Up Anonymous Communication With Efficient Nanopayment Channels"
+  description: 
+  authors: F. Rochet, T-N. Dinh, D. Wallach, O. Pereira
   link:
-    url: https://example.com
-    display:  https://example.com
+    url: 
+    display:  
+  in: Proceedings on Privacy Enhancing Technologies (2020)
+  journal: 1
   highlight: 1
-  id_project: 1
+  id_project: -1
   news2:
+
+- title: "Flexible Anonymous Network"
+  description: 
+  authors: F. Rochet, O. Bonaventure, O. Pereira
+  link:
+    url: https://arxiv.org/abs/1906.11520
+    display: HotPETs (2019)
+  slides:
+    url: https://petsymposium.org/2019/files/hotpets/slides/rochet-fan-slides.pdf
+    display: slides
+  in: 12th Workshop on Hot Topics in Privacy Enhancing Technologies (HotPETs 2019)
+  journal: 0
+  id_project: 2
+
+- title: "Pluginizing QUIC"
+  description:
+  authors: Q. DeConinck, F. Michel, M. Piraux, F. Rochet, T. Given-Wilson, A.Legay, O.Pereira, O.Bonaventure
+  link:
+    url: https://dl.acm.org/doi/10.1145/3341302.3342078
+    display: ACM SIGCOMM (2019)
+  in: Proceedings of the ACM Special Interest Group on Data Communication (ACM SIGCOMM 2019)
+  journal: 0
+  id_project: 1
+
+- title: "SWAT: Seamless Web Authentication Technology"
+  description:
+  authors: F.Rochet, K. Efthymiadis, F. Koeune, O. Pereira
+  link:
+    url: https://dl.acm.org/doi/10.1145/3308558.3313637
+    display: ACM WWW (2019)
+  journal: 0
+  id_project: 4
+
+- title: "Dropping on the Edge: Flexibility and Traffic Confirmation in Onion Routing Protocols"
+  descritpion: 
+  authors: F. Rochet, O. Pereira,
+  link: 
+    url: https://www.petsymposium.org/2018/files/papers/issue2/popets-2018-0011.pdf
+    display: PoPETs (2018)
+  slides:
+    url: https://petsymposium.org/2018/files/slides/Dropping%20on%20the%20Edge%20-%20Flexibility%20and%20Traffic%20Confirmation%20in%20Onion%20Routing%20Protocols.pdf
+    display: slides
+  in: Proceedings on Privacy Enhancing Technologies (2018)
+  journal: 1
+  id_project: 2
+
+- title: "Formal Analysis of the Fido 1.x Protocol"
+  description:
+  authors: O. Pereira, F.Rochet, C. Wiedling
+  link:
+    url: https://uclouvain.be/crypto/services/download/publications.pdf.91bfb5dc9c6cc12b.6669646f2e706466.pdf
+    display: FPS (2017)
+  in: the 10th International Symposium on Foundations & Practices of Security
+  journal: 0
+  id_project: 4
+
+- title: "Waterfilling: Balancing the Tor Network with Maximum Diversity"
+  description:
+  authors: F. Rochet, O. Pereira
+  link:
+    url: https://petsymposium.org/2017/papers/issue2/paper05-2017-2-source.pdf
+    display: PoPETs (2017)
+  journal: 1
+  id_project: 3
+

@@ -27,7 +27,7 @@
 
 - title: "Pluginizing QUIC"
   description:
-  authors: Q. DeConinck, F. Michel, M. Piraux, F. Rochet, T. Given-Wilson, A.Legay, O.Pereira, O.Bonaventure
+  authors: Q. De Coninck, F. Michel, M. Piraux, F. Rochet, T. Given-Wilson, A.Legay, O.Pereira, O.Bonaventure
   link:
     url: https://dl.acm.org/doi/10.1145/3341302.3342078
     display: ACM SIGCOMM (2019)

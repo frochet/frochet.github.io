@@ -1,7 +1,15 @@
 - title: "Extensibility of transport protocols"
   projectid: 1
   image: pquic.png
-  description: "Extensibility is a key requirement for the success of Internet protocols. Indeed, all standardized protocols have received extensions throughout the years to meet new usecases and evolve with various desired properties. However, many of them have failed to be deployed despite the willingness of important actors and the availability of implementations, mainly due to middlebox interferences and difficulties to propagate the usage of the new implementations. We aim for a new method to design extensible Internet protocols that won\'t be affected by middleboxes and that would be fast to deploy everywhere."
+  description: "Extensibility is an essential requirement for the success of Internet
+  protocols. Indeed, all standardized protocols have received extensions
+  throughout the years to meet new use-cases and evolve with various desired
+  properties. However, many of them have failed to be deployed despite the
+  willingness of important actors and the availability of implementations. The
+  main reasons for failures fall to middlebox interferences and to difficulties
+  to propagate the usage of the new implementations. We aim for an
+  originalmethod to design extensible Internet protocols that won't be affected
+  by middleboxes, and that would be fast to deploy everywhere."
   status: 1
 
 - title: "Flexibility in Anonymous Communication"

@@ -21,8 +21,11 @@ permalink: /
   <p>{{ project.description }}</p>
   <p><b> Linked publications:</b> </p>
   <ul>
-{% for publi in site.data.publist %}
-  {%if publi.id_project == project.projectid %}
+  {% if project.status == 1 %}
+    <li> Upcoming publication! Stay tuned :-)</li>
+  {% endif %}
+  {% for publi in site.data.publist %}
+  {% if publi.id_project == project.projectid %}
     <li>
     <p>{{ publi.title }}, 
   <strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>

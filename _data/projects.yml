@@ -8,7 +8,7 @@
   willingness of important actors and the availability of implementations. The
   main reasons for failures fall to middlebox interferences and to difficulties
   to propagate the usage of the new implementations. We aim for an
-  originalmethod to design extensible Internet protocols that won't be affected
+  original method to design extensible Internet protocols that won't be affected
   by middleboxes, and that would be fast to deploy everywhere."
   status: 1
 

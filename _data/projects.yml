@@ -1,19 +1,39 @@
 - title: "Extensibility of transport protocols"
   projectid: 1
   image: pquic.png
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque volutpat ac tincidunt vitae semper. Mi proin sed libero enim sed faucibus. Commodo viverra maecenas accumsan lacus vel facilisis volutpat est velit. Donec massa sapien faucibus et molestie. Eu mi bibendum neque egestas congue quisque egestas. Dui id ornare arcu odio ut sem nulla. Adipiscing commodo elit at imperdiet dui accumsan sit. Enim blandit volutpat maecenas volutpat blandit. Tincidunt eget nullam non nisi est. Tincidunt dui ut ornare lectus sit amet est placerat in. Aliquet risus feugiat in ante metus dictum at tempor. Vel eros donec ac odio tempor orci dapibus. Gravida quis blandit turpis cursus in hac habitasse. Turpis massa sed elementum tempus egestas sed sed risus.
+  description: "Extensibility is a key requirement for the success of Internet protocols. Indeed, all standardized protocols have received extensions throughout the years to meet new usecases and evolve with various desired properties. However, many of them have failed to be deployed despite the willingness of important actors and the availability of implementations, mainly due to middlebox interferences and difficulties to propagate the usage of the new implementations. We aim for a new method to design extensible Internet protocols that won\'t be affected by middleboxes and that would be fast to deploy everywhere."
+  status: 1
 
 - title: "Flexibility in Anonymous Communication"
   projectid: 2
-  image: vm_drawing.png
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque volutpat ac tincidunt vitae semper. Mi proin sed libero enim sed faucibus. Commodo viverra maecenas accumsan lacus vel facilisis volutpat est velit. Donec massa sapien faucibus et molestie. Eu mi bibendum neque egestas congue quisque egestas. Dui id ornare arcu odio ut sem nulla. Adipiscing commodo elit at imperdiet dui accumsan sit. Enim blandit volutpat maecenas volutpat blandit. Tincidunt eget nullam non nisi est. Tincidunt dui ut ornare lectus sit amet est placerat in. Aliquet risus feugiat in ante metus dictum at tempor. Vel eros donec ac odio tempor orci dapibus. Gravida quis blandit turpis.
+  image: tor_logo.png
+  description: "Many network protocol designs have applied the Robustness principle, and Tor, the most widely used anonymous network makes no exception. The Robustness principle is elegant, easy and effective to turn into an implementation. However, our research pointed out conflicting interaction between the flexibility offered by the Robustness principle and the core mission of the Tor routing protocol: offering anonymous connections over the Internet to a wide diversity of users and use cases. Indeed, we were able to show that exploiting Tor's flexibility was an important vector of attacks. In this research project, we argue that flexibility for a distributed overlay network such as Tor must be re-engineered. We expect our methods to allow a stronger resilience to many attacks and a more effective response to newly discovered ones. Moreover, this project has the other overwhelming motivation to design an Anonymous Network able to push the Threat Model to the application layer, and meet the requirements of independant use cases over the same physical network."
+  status: 1
 
-- title: "Security in Anonymous Communication Overlay Networks via Path Selection"
+- title: "Security in Tor via Path Selection"
   projectid: 3
-  image: dummy.png
-  description: GLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque volutpat ac tincidunt vitae semper. Mi proin sed libero enim sed faucibus. Commodo viverra maecenas accumsan lacus vel facilisis volutpat est velit. Donec massa sapien faucibus et molestie. Eu mi bibendum neque egestas congue quisque egestas. Dui id ornare arcu odio ut sem nulla. Adipiscing commodo elit at imperdiet dui accumsan sit. Enim blandit volutpat maecenas volutpat blandit. Tincidunt eget nullam non nisi est. Tincidunt dui ut ornare lectus sit amet
+  image: dices.png
+  description: "One approach to improving the resilience of the Tor network
+  against end-to-end correlation attack is to research techniques that reduce
+  the probability to get an adversary on our path. The path selection is without
+  a doubt the most crucial component of the core Tor software: it offers
+  anonymity to Tor users with random paths that follow a distribution supposed
+  to balance the usage of all relays within the network. Hence, it has this dual
+  objective to offer good anonymity and good performance. This research project
+  develops a framework to enable Path Selection against various adaptation of
+  adversaries: relay adversaries and AS adversaries with load-balancing guarantee"
+  status: 1
 
 - title: "Exploring Security/Usability trade-offs in Web Authentication"
   projectid: 4
-  image: dummy.png
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque volutpat ac tincidunt vitae semper. Mi proin sed libero enim sed faucibus. Commodo viverra maecenas accumsan lacus vel facilisis volutpat est velit. Donec massa sapien faucibus et molestie. Eu mi bibendum neque egestas congue quisque egestas. Dui id ornare arcu odio ut sem nulla. Adipiscing commodo elit at imperdiet dui accumsan sit. Enim blandit volutpat maecenas volutpat blandit. Tincidunt eget nullam non nisi est. Tincidunt dui ut ornare lectus sit amet est placerat in. Aliquet risus feugiat in ante metus dictum at tempor.
+  image: web_sec_icon.svg
+  description: "Asserting that a claimed identity is legitimate is a difficult
+  problem. Authentication is usually based on an agreed token that a user uses
+  to prove his identity. This token can be of many forms with many different
+  extraction methods. These are commonly divided in the following well-known
+  classification: something we know, something we have and somethingwe are. In
+  this project, we investigated the expected security of multifactor
+  authentication such as FIDO (standardized as Webauthn by the W3C), and
+  proposed SWAT, a new design which can get combined to any other authentication
+  technique without loss of application usability"
+  status: 0

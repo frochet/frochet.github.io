@@ -1,3 +1,12 @@
+- title: "CLAPS: Client Location-Aware Path Selection in Tor"
+  authors: F. Rochet, R. Wails, A. Johnson, P. Mittal, O. Pereira
+  link:
+    display: Soon
+  in: 27th ACM SIGSAC Conference on Computer and Communications Security (CCS '20)
+  highlight: 1
+  id_project: 3
+  year: 2020
+
 - title: "Scaling Up Anonymous Communication With Efficient Nanopayment Channels"
   description: 
   authors: F. Rochet, T-N. Dinh, D. Wallach, O. Pereira

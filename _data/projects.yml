@@ -30,7 +30,7 @@
   objective to offer good anonymity and good performance. This research project
   develops a framework to enable Path Selection against various adaptation of
   adversaries: relay adversaries and AS adversaries with load-balancing guarantee"
-  status: 1
+  status: 0
 
 - title: "Exploring Security/Usability trade-offs in Web Authentication"
   projectid: 4

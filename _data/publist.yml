@@ -1,7 +1,16 @@
+- title: "TCPLS: Closely Integrating TCP and TLS"
+  authors: F. Rochet, E. Assogba, O. Bonaventure
+  link:
+    display: ACM HotNETs
+  in: Nineteenth ACM Workshop on Hot Topics in Networks
+  highlight: 1
+  id_project: 1
+  year: 2020
+
 - title: "CLAPS: Client Location-Aware Path Selection in Tor"
   authors: F. Rochet, R. Wails, A. Johnson, P. Mittal, O. Pereira
   link:
-    display: Soon
+    display: ACM CCS
   in: 27th ACM SIGSAC Conference on Computer and Communications Security (CCS '20)
   highlight: 1
   id_project: 3

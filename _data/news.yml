@@ -1,3 +1,9 @@
+- date: August 2020
+  headline: "Paper accepted at ACM HotNETs: TCPLS: Closely Integrating TCP and TLS. This research is an ongoing work showing potentials for a more intricated TLS/TCP design; This paper covers the promise of our work, with initial results."
+- date: August 2020
+  healine: "Paper accepted at ACM CCS: CLAPS: Client-Location-Aware Path
+  Selection in Tor. In a nutshell, this papers offers a second life to many cool
+  location-aware path selection ideas, by solving their known problems and improving on their results."
 - date: April 2020
   headline: "Joined PoPETs 2021 PC, Call For Paper: petsymposium.org/cfp21.php" 
 - date: 29. March 2020

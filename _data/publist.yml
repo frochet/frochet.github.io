@@ -10,6 +10,7 @@
 - title: "CLAPS: Client Location-Aware Path Selection in Tor"
   authors: F. Rochet, R. Wails, A. Johnson, P. Mittal, O. Pereira
   link:
+    url: https://www-crypto.elen.ucl.ac.be/crypto/services/download/publications.pdf.917c91c9b34d92f4.70617065722e706466.pdf
     display: ACM CCS
   in: 27th ACM SIGSAC Conference on Computer and Communications Security (CCS '20)
   highlight: 1

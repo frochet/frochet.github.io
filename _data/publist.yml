@@ -1,6 +1,7 @@
 - title: "TCPLS: Closely Integrating TCP and TLS"
   authors: F. Rochet, E. Assogba, O. Bonaventure
   link:
+    url: https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A240267/dat
     display: ACM HotNETs
   in: Nineteenth ACM Workshop on Hot Topics in Networks
   highlight: 1
@@ -48,7 +49,7 @@
   description:
   authors: Q. De Coninck, F. Michel, M. Piraux, F. Rochet, T. Given-Wilson, A.Legay, O.Pereira, O.Bonaventure
   link:
-    url: https://dl.acm.org/doi/10.1145/3341302.3342078
+    url: https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A218857/datastreams
     display: ACM SIGCOMM (2019)
   in: Proceedings of the ACM Special Interest Group on Data Communication (ACM SIGCOMM 2019)
   journal: 0

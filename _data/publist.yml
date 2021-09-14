@@ -1,3 +1,14 @@
+- title: "TCPLS: Modern Transport Services with TCP and TLS"
+  authors: F. Rochet, E. Assogba, M. Piraux, K. Edeline, B. Donnet, O. Bonaventure
+  link:
+    url:
+    display: ACM CoNext -- Comming soon
+  in: 17th International Conference on emerging Networking EXperiments and
+Technologies (ACM CoNext 2021)
+  highlight: 1
+  id_project: 1
+  year: 2021
+
 - title: "TCPLS: Closely Integrating TCP and TLS"
   authors: F. Rochet, E. Assogba, O. Bonaventure
   link:

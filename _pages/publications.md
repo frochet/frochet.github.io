@@ -28,7 +28,7 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br />
   In:<em> {{ publi.in }} </em><br />
   {% if publi.has_award == 1 %}
-    <span style="color:blue"> {{ publi.award }} </span> <br />
+    <span style="color:blue"> {{ publi.award }} </span>
   {% endif %}
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
   {% endif %}

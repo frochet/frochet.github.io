@@ -1,4 +1,5 @@
 - title: "TCPLS: Modern Transport Services with TCP and TLS"
+  description: 
   authors: F. Rochet, E. Assogba, M. Piraux, K. Edeline, B. Donnet, O. Bonaventure
   link:
     url: https://orbi.uliege.be/bitstream/2268/264667/1/paper.pdf
@@ -9,6 +10,7 @@
   year: 2021
 
 - title: "TCPLS: Closely Integrating TCP and TLS"
+  description: 
   authors: F. Rochet, E. Assogba, O. Bonaventure
   link:
     url: https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A240267/dat

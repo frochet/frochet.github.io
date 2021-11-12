@@ -16,6 +16,8 @@
   in: Nineteenth ACM Workshop on Hot Topics in Networks
   highlight: 1
   id_project: 1
+  has_award: 0
+  award:
   year: 2020
 
 - title: "CLAPS: Client Location-Aware Path Selection in Tor"
@@ -42,6 +44,7 @@
   id_project: -1
   year: 2020
   has_award: 0
+  award:
   news2:
 
 - title: "Flexible Anonymous Network"

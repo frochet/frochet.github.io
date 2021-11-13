@@ -27,10 +27,10 @@ permalink: /publications/
   <b>{{ publi.title }} </b><br />
   <em>{{ publi.authors }} </em><br />
   In:<em> {{ publi.in }} </em><br />
-  {% if publi.award %}
-    {{ publi.award }} <br/ >
-  {% endif %}
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {% if publi.award %}
+    {{ publi.award }} <br />
+  {% endif %}
   {% endif %}
 {% endfor %}
 

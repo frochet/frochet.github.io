@@ -17,7 +17,7 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br />
   In:<em> {{ publi.in }} </em><br />
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
-  <span style="color:darkgreen"> {{ publi.award }} </span>
+  <span style="color:darkgreen"><b> {{ publi.award }} </b></span>
   {% endif %}
 {% endfor %}
 
@@ -29,7 +29,7 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br />
   In:<em> {{ publi.in }} </em><br />
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
-  <span style="color:darkgreen"> {{ publi.award }} </span>
+  <span style="color:darkgreen"><b> {{ publi.award }} </b></span>
   {% endif %}
 {% endfor %}
 

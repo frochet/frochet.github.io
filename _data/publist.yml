@@ -7,6 +7,7 @@
   in: 17th International Conference on emerging Networking EXperiments and Technologies (ACM CoNEXT 2021)
   highlight: 1
   id_project: 1
+  award: Best Community Award
   year: 2021
 
 - title: "TCPLS: Closely Integrating TCP and TLS"
@@ -18,7 +19,6 @@
   in: Nineteenth ACM Workshop on Hot Topics in Networks
   highlight: 1
   id_project: 1
-  award: Best Community Award
   year: 2020
 
 - title: "CLAPS: Client Location-Aware Path Selection in Tor"

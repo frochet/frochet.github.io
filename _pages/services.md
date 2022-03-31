@@ -16,7 +16,7 @@ permalink: /services/
 - IEEE Security & Privacy Poster Jury 2019
 - IEEE Security & Privacy Student PC 2019
 
-## Artifact Committee
+## Artifact Committees
 
 - Privacy Enhancing Technologies (PoPETs) 2022
 - Privacy Enhancing Technologies (PoPETs) 2021

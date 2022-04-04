@@ -15,7 +15,7 @@
   main reasons for failures fall to middlebox interferences and to difficulties
   to propagate the usage of the new implementations. We aim for an
   original method to design extensible Internet protocols that won't be affected
-  by middleboxes, and that would be fast to deploy everywhere. Many of these efforts have been realized under the initial impulsion of [Olivier Bonaventure](https://perso.uclouvain.be/olivier.bonaventure/blog/html/index.html) and his team."
+  by middleboxes, and that would be fast to deploy everywhere. Many of these efforts have been realized under the initial impulsion of [Olivier Bonaventure](https://perso.uclouvain.be/olivier.bonaventure/blog/html/index.html) and his team. More information about linked projects can be found on [https://pluginized-protocols.org/](https://pluginized-protocols.org/)."
   status: 1
 
 

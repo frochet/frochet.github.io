@@ -15,7 +15,7 @@
   main reasons for failures fall to middlebox interferences and to difficulties
   to propagate the usage of the new implementations. We aim for an
   original method to design extensible Internet protocols that won't be affected
-  by middleboxes, and that would be fast to deploy everywhere."
+  by middleboxes, and that would be fast to deploy everywhere. Many of these efforts have been realized under the initial impulsion of [Olivier Bonaventure](https://perso.uclouvain.be/olivier.bonaventure/blog/html/index.html) and his team."
   status: 1
 
 
@@ -40,7 +40,7 @@
   problem. Authentication is usually based on an agreed token that a user uses
   to prove his identity. This token can be of many forms with many different
   extraction methods. These are commonly divided in the following well-known
-  classification: something we know, something we have and somethingwe are. In
+  classification: something we know, something we have and something we are. In
   this project, we investigated the expected security of multifactor
   authentication such as FIDO (standardized as Webauthn by the W3C), and
   proposed SWAT, a new design which can get combined to any other authentication

@@ -1,3 +1,9 @@
+- title: "Flexibility in Anonymous Communication"
+  projectid: 2
+  image: tor_logo.png
+  description: "Many network protocol designs have applied the Robustness principle, and Tor, the most widely used anonymous network makes no exception. The Robustness principle is elegant, easy and effective to turn into an implementation. However, our research pointed out conflicting interaction between the flexibility offered by the Robustness principle and the core mission of the Tor routing protocol: offering anonymous connections over the Internet to a wide diversity of users and use cases. Indeed, we were able to show that exploiting Tor's flexibility was an important vector of attacks. In this research project, we argue that flexibility for a distributed overlay network such as Tor must be re-engineered. We expect our methods to allow a stronger resilience to many attacks and a more effective response to newly discovered ones. Moreover, this project has the other overwhelming motivation to design an Anonymous Network able to push the Threat Model to the application layer, and meet the requirements of independant use cases over the same physical network."
+  status: 1
+
 - title: "Extensibility of transport protocols"
   projectid: 1
   image: pquic.png
@@ -12,11 +18,6 @@
   by middleboxes, and that would be fast to deploy everywhere."
   status: 1
 
-- title: "Flexibility in Anonymous Communication"
-  projectid: 2
-  image: tor_logo.png
-  description: "Many network protocol designs have applied the Robustness principle, and Tor, the most widely used anonymous network makes no exception. The Robustness principle is elegant, easy and effective to turn into an implementation. However, our research pointed out conflicting interaction between the flexibility offered by the Robustness principle and the core mission of the Tor routing protocol: offering anonymous connections over the Internet to a wide diversity of users and use cases. Indeed, we were able to show that exploiting Tor's flexibility was an important vector of attacks. In this research project, we argue that flexibility for a distributed overlay network such as Tor must be re-engineered. We expect our methods to allow a stronger resilience to many attacks and a more effective response to newly discovered ones. Moreover, this project has the other overwhelming motivation to design an Anonymous Network able to push the Threat Model to the application layer, and meet the requirements of independant use cases over the same physical network."
-  status: 1
 
 - title: "Security in Tor via Path Selection"
   projectid: 3

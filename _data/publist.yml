@@ -1,3 +1,13 @@
+- title: "Stopping Silent Sneaks: Defending against Malicious Mixes with Topological Engineering"
+  description:
+  authors: X. Ma, F. Rochet, T. Elahi
+  link:
+    url: 
+    display: ACSAC (to appear soon)
+  in: Annual Computer Security Applications Conference
+  highlight: 0
+  year: 2022
+
 - title: "TCPLS: Modern Transport Services with TCP and TLS"
   description: 
   authors: F. Rochet, E. Assogba, M. Piraux, K. Edeline, B. Donnet, O. Bonaventure

@@ -10,6 +10,7 @@ permalink: /services/
 
 ## Program Committees
 
+- ACM CoNEXT 2023
 - Usenix Security 2023
 - Privacy Enhancing Technologies (PoPETs) 2022
 - Privacy Enhancing Technologies (PoPETs) 2021

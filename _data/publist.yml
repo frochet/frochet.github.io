@@ -1,3 +1,13 @@
+- title: "Comparing Security in eBPF and WebAssembly"
+  description:
+  authors: J. Dejaeghere, B. Gbadamosi, T. Pulls, F. Rochet
+  link:
+    url: https://researchportal.unamur.be/fr/publications/comparing-security-in-ebpf-and-webassembly
+    display: ACM SIGCOMM eBPF
+  in: ACM SIGCOMM 1st Workshop on eBPF and Kernel Extensions
+  highlight: 0
+  year: 2023
+
 - title: "Stopping Silent Sneaks: Defending against Malicious Mixes with Topological Engineering"
   description:
   authors: X. Ma, F. Rochet, T. Elahi

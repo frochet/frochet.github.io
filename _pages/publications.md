@@ -9,6 +9,19 @@ permalink: /publications/
 
 # Publications
 
+## 2023
+
+{% for publi in site.data.publist %}
+  {% if publi.year == 2023 %}
+  <b>{{ publi.title }} </b><br />
+  <em>{{ publi.authors }} </em><br />
+  In:<em> {{ publi.in }} </em><br />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br />
+  <span style="color:darkgreen"><b> {{ publi.award }} </b></span>
+  {% endif %}
+{% endfor %}
+
+
 ## 2022
 
 {% for publi in site.data.publist %}

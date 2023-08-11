@@ -13,6 +13,8 @@ permalink: /services/
 - Usenix Security 2024
 - ACM CoNEXT 2023
 - Usenix Security 2023
+<span style="color:darkgreen; text-indent:10px"><b>Usenix Security Noteworthy
+Reviewer Award</b></span>
 - Privacy Enhancing Technologies (PoPETs) 2022
 - Privacy Enhancing Technologies (PoPETs) 2021
 - IEEE Security & Privacy Poster Jury 2019

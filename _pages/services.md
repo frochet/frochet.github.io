@@ -10,6 +10,7 @@ permalink: /services/
 
 ## Program Committees
 
+- ACM CCS 2024
 - Usenix Security 2024
 - ACM CoNEXT 2023
 - Usenix Security 2023

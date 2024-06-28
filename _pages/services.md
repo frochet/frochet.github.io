@@ -10,6 +10,7 @@ permalink: /services/
 
 ## Program Committees
 
+- Privacy Enhancing Technologies (PoPETs) 2025
 - ACM CCS 2024
 - Usenix Security 2024
 - ACM CoNEXT 2023

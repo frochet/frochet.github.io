@@ -1,3 +1,14 @@
+- title: "Towards Flexible Anonymous Networks"
+  description:
+  authors: F. Rochet, J. Dejaeghere, T. Elahi
+  link:
+    url: https://pure.unamur.be/ws/portalfiles/portal/101633221/wpes02.pdf
+    display: ACM CCS WPES
+  in: Proceedings of the 23rd Workshop on Privacy in the Electronic Society (WPES '24)
+  highlight: 1
+  id_project: 2
+  year: 2024
+
 - title: "Comparing Security in eBPF and WebAssembly"
   description:
   authors: J. Dejaeghere, B. Gbadamosi, T. Pulls, F. Rochet

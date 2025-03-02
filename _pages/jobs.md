@@ -8,8 +8,7 @@ permalink: /jobs.html
 
 # Open Positions
 
-## Teaching Assistant -- Computer Security and Privacy (Close on April
-30)
+## Teaching Assistant -- Computer Security and Privacy (Close on April 30)
 
 This offer involves a 6-year contract (3 x 2 years contracts) to teach
 practical sessions at bachelor's and master's level and realize a PhD
@@ -28,17 +27,17 @@ Prof. Laurent Schumacher from UNamur.
 
 ### Requirements to apply
 
-  **Education level**: The applicant must hold:
-    - A Master 120 in Computer Sciences, or equivalent
+  **Education level**: The applicant must hold:  
+    - A Master 120 in Computer Sciences, or equivalent  
     - Or a Civil Engineering degree with a good knowledge of IT, or
       equivalent
 
   **Skills/Qualification**: The successful candidate demonstrates the
-following qualities:
-    - Mastery of the subjects to be taught
-    - An interest in open-source and its philosophy
+following qualities:  
+    - Mastery of the subjects to be taught  
+    - An interest in open-source and its philosophy  
     - Knowledge and use of a least one system language (Rust, C/C++, GO,
-      ect.)
+      ect.)  
     - Knowledge of French and English (reading, writing and speaking).
 
 ### Where to apply

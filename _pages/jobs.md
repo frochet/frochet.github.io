@@ -35,6 +35,7 @@ Prof. Laurent Schumacher from UNamur.
   **Skills/Qualification**: The successful candidate demonstrates the
 following qualities:  
     - Mastery of the subjects to be taught  
+    - Knowledge of Cryptography  
     - An interest in open-source and its philosophy  
     - Knowledge and use of a least one system language (Rust, C/C++, GO,
       ect.)  

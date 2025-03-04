@@ -61,3 +61,6 @@ https://www.unamur.be/en/university/work/forms (Academic form)
 University of Namur, Faculty of Computer Science, Rue Grandgagnage 21,
 5000 Namur, Belgium.
 
+### Question?
+
+Reach out to Prof. F. Rochet for any question.

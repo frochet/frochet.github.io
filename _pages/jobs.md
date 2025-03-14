@@ -50,7 +50,8 @@ florentin.rochet@unamur.be a candidature involving:
 - A curriculum vitae
 - A transcript of grades obtained in the Master
 - A copy of their 2nd cycle diploma
-- A copy of their Master Thesis
+- A copy of their Master Thesis (except students expecting to finish
+this year).
 
 Part of these informations should also appear within the candidature
 form to send alongside. The form can be downloaded here:

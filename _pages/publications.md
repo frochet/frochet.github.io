@@ -12,7 +12,7 @@ permalink: /publications/
 ## 2025
 
 {% for publi in site.data.publist %}
-  {% if publi.year == 2024 %}
+  {% if publi.year == 2025 %}
   <b>{{ publi.title }} </b><br />
   <em>{{ publi.authors }} </em><br />
   In:<em> {{ publi.in }} </em><br />

@@ -1,3 +1,13 @@
+- title: "Contiguous Zero-Copy for Encrypted Transport Protocols"
+  description:
+  authors: F. Rochet
+  link:
+    url:
+    display: ACM SIGCOMM CCR (to appear)
+  highlight: 1
+  id_project: 5
+  year: 2025
+
 - title: "Towards Flexible Anonymous Networks"
   description:
   authors: F. Rochet, J. Dejaeghere, T. Elahi

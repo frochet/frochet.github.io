@@ -8,6 +8,9 @@ permalink: /services/
 
 # Academic Services
 
+I limit my Service contributions to two TPC/year to balance with other
+tasks.
+
 ## Program Committees
 - IEEE Security and Privacy 2027
 - PETS 2027

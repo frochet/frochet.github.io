@@ -9,6 +9,8 @@ permalink: /services/
 # Academic Services
 
 ## Program Committees
+- IEEE Security and Privacy 2027
+- PETS 2027
 - AsiaCCS 2026
 - Privacy Enhancing Technologies (PoPETs) 2026
 - Usenix Security 2025
